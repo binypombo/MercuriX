@@ -35,4 +35,6 @@ This will be needed to adjust to this build! (endstops, size, etc etc)
 And for the slicer:
 https://github.com/joseph-greiner/tridex_mods/tree/main/slicer_configuration
 
+## Support me by buying me a coffee
+https://buymeacoffee.com/biny3d
 
