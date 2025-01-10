@@ -1,6 +1,6 @@
 # MercuriX (WIP)
 
-<img width="880" Mercury_ZeroG_Hydra_Idex_2025-Jan-10_01-58-54PM-000_CustomizedView14352426366.png>
+https://github.com/binypombo/MercuriX/blob/main/Mercury_ZeroG_Hydra_Idex_2025-Jan-10_01-58-54PM-000_CustomizedView14352426366.png
 
 ## Overview
 
